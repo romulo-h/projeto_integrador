@@ -10,8 +10,8 @@ namespace ProjIntegrador.Controllers
 {
     public class HomeController : Controller
     {
-        private ProjIntegradorContext db;
-        public HomeController(ProjIntegradorContext DB)
+        private Context db;
+        public HomeController(Context DB)
         {
             db = DB;
         }
