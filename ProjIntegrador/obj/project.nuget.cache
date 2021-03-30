@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9fxyf8cmjvuNoWrfC5/X/UQe6pL1kJ/tKFPJlIfU0kGJPQbgSzJhV6erTVYf1cGpYyBRX540RAclrRS5WXlsw==",
+  "dgSpecHash": "ZMMcdmmYgbE8kYh0R7LV5cryOOPP8cVv6kG1RD8VG7TrlQ92PqS/WCLcno8g16TXCwvWOrbeX0Z+DFdKUz+fXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\romul\\source\\repos\\ProjIntegrador\\ProjIntegrador\\ProjIntegrador.csproj",
+  "projectFilePath": "C:\\Users\\romul\\OneDrive\\Área de Trabalho\\Nova pasta\\projeto_integrador\\ProjIntegrador\\ProjIntegrador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romul\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\romul\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",

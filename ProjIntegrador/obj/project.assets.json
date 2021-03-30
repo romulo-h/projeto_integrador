@@ -12658,11 +12658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romul\\source\\repos\\ProjIntegrador\\ProjIntegrador\\ProjIntegrador.csproj",
+      "projectUniqueName": "C:\\Users\\romul\\OneDrive\\Área de Trabalho\\Nova pasta\\projeto_integrador\\ProjIntegrador\\ProjIntegrador.csproj",
       "projectName": "ProjIntegrador",
-      "projectPath": "C:\\Users\\romul\\source\\repos\\ProjIntegrador\\ProjIntegrador\\ProjIntegrador.csproj",
+      "projectPath": "C:\\Users\\romul\\OneDrive\\Área de Trabalho\\Nova pasta\\projeto_integrador\\ProjIntegrador\\ProjIntegrador.csproj",
       "packagesPath": "C:\\Users\\romul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romul\\source\\repos\\ProjIntegrador\\ProjIntegrador\\obj\\",
+      "outputPath": "C:\\Users\\romul\\OneDrive\\Área de Trabalho\\Nova pasta\\projeto_integrador\\ProjIntegrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\romul\\AppData\\Roaming\\NuGet\\NuGet.Config",
