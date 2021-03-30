@@ -34,7 +34,7 @@ namespace ProjIntegrador
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            services.AddDbContext<ProjIntegradorContext>(options =>
+            services.AddDbContext<Contexto>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 

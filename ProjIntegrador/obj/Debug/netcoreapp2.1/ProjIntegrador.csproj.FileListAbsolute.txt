@@ -33,3 +33,38 @@ C:\Users\romul\source\repos\ProjIntegrador\ProjIntegrador\obj\Debug\netcoreapp2.
 C:\Users\romul\source\repos\ProjIntegrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.pdb
 C:\Users\romul\source\repos\ProjIntegrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.genruntimeconfig.cache
 C:\Users\romul\source\repos\ProjIntegrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.csproj.CopyComplete
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.deps.json
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.runtimeconfig.json
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.runtimeconfig.dev.json
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.dll
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.pdb
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.Views.dll
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\bin\Debug\netcoreapp2.1\ProjIntegrador.Views.pdb
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.csprojAssemblyReference.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.AssemblyInfoInputs.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.AssemblyInfo.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.RazorAssemblyInfo.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.RazorAssemblyInfo.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.TagHelpers.input.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.TagHelpers.output.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.RazorCoreGenerate.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.RazorTargetAssemblyInfo.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.RazorTargetAssemblyInfo.cs
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.Views.pdb
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.dll
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.pdb
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.genruntimeconfig.cache
+D:\Área de Trabalho\PI\projeto_integrador\ProjIntegrador\obj\Debug\netcoreapp2.1\ProjIntegrador.csproj.CopyComplete

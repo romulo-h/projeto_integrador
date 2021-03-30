@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace ProjIntegrador
 {
-    public class ProjIntegradorContext : DbContext
+    public class Contexto : DbContext
     {
-        public ProjIntegradorContext(DbContextOptions<ProjIntegradorContext> options)
+        public Contexto(DbContextOptions<Contexto> options)
             : base(options)
         { }
         //Declara as tabelas do banco
