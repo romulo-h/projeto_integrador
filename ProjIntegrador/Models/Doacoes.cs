@@ -27,5 +27,10 @@ namespace ProjIntegrador.Models
         public int IdDoador { get; set; }
         public DateTime? DataDoacao { get; set; }
         public string Outros { get; set; }
+
+        public Doacoes()
+        {
+
+        }
     }
 }

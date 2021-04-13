@@ -18,5 +18,10 @@ namespace ProjIntegrador.Models
         public string CEP { get; set; }
         public string Observacao { get; set; }
         public string Telefone { get; set; }
+
+        public Endereco()
+        {
+
+        }
     }
 }
